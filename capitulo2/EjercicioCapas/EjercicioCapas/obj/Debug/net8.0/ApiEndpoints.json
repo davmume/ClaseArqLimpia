@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "EjercicioCapas.Presentation.Controllers.EjercicioCapasController",
+    "Method": "BuscarLibrosPorAutor",
+    "RelativePath": "api/EjercicioCapas/BuscarLibrosPorAutor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AutorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EjercicioCapas.Presentation.Controllers.EjercicioCapasController",
+    "Method": "InsertarLibro",
+    "RelativePath": "api/EjercicioCapas/InsertarLibro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EjercicioCapas.Data.DTOs.BookDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EjercicioCapas.Presentation.Controllers.EjercicioCapasController",
+    "Method": "ObtenerTodosLosLibros",
+    "RelativePath": "api/EjercicioCapas/ObtenerTodosLosLibros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

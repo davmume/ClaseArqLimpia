@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestful\\reservacionesrestful\\bussiness\\services\\reservationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|solutionrelative:reservacionesrestful\\bussiness\\services\\reservationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestful\\reservacionesrestful\\data\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|solutionrelative:reservacionesrestful\\data\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestful\\reservacionesrestful\\presentation\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|solutionrelative:reservacionesrestful\\presentation\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestful\\reservacionesrestful\\data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|solutionrelative:reservacionesrestful\\data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestful\\reservacionesrestful\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{630D1D6C-07A1-4EA8-AF2C-77257933E623}|ReservacionesRestful\\ReservacionesRestful.csproj|solutionrelative:reservacionesrestful\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReservationServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Bussiness\\Services\\ReservationServiceImpl.cs",
-              "RelativeDocumentMoniker": "ReservacionesRestful\\Bussiness\\Services\\ReservationServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Bussiness\\Services\\ReservationServiceImpl.cs",
-              "RelativeToolTip": "ReservacionesRestful\\Bussiness\\Services\\ReservationServiceImpl.cs",
-              "ViewState": "AgIAACkAAAAAOjMzMzPzvzkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:38:53.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Data\\Repositories\\ReservationRepository.cs",
-              "RelativeDocumentMoniker": "ReservacionesRestful\\Data\\Repositories\\ReservationRepository.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Data\\Repositories\\ReservationRepository.cs",
-              "RelativeToolTip": "ReservacionesRestful\\Data\\Repositories\\ReservationRepository.cs",
-              "ViewState": "AgIAAAUAAAD0/////z81wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:38:40.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Presentation\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "ReservacionesRestful\\Presentation\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Presentation\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "ReservacionesRestful\\Presentation\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAMAAACgAAAAAIApwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:34:09.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Data\\Repositories\\RoomRepository.cs",
-              "RelativeDocumentMoniker": "ReservacionesRestful\\Data\\Repositories\\RoomRepository.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\Data\\Repositories\\RoomRepository.cs",
-              "RelativeToolTip": "ReservacionesRestful\\Data\\Repositories\\RoomRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:23:29.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\appsettings.json",
-              "RelativeDocumentMoniker": "ReservacionesRestful\\appsettings.json",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\ReservacionesRestful\\ReservacionesRestful\\appsettings.json",
-              "RelativeToolTip": "ReservacionesRestful\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T17:00:24.055Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
