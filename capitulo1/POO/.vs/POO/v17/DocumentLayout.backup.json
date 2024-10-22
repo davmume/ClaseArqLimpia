@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\poo\\poo\\herencia\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|solutionrelative:poo\\herencia\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\poo\\poo\\polimorfismo\\ifuntion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|solutionrelative:poo\\polimorfismo\\ifuntion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\poo\\poo\\encapsulation\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|solutionrelative:poo\\encapsulation\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\poo\\poo\\abstraction\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|solutionrelative:poo\\abstraction\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\poo\\poo\\poo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D85F1C30-4245-4AB9-BAD2-C720031755EC}|POO\\POO.csproj|solutionrelative:poo\\poo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:04:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFuntion.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Polimorfismo\\IFuntion.cs",
+              "RelativeDocumentMoniker": "POO\\Polimorfismo\\IFuntion.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Polimorfismo\\IFuntion.cs",
+              "RelativeToolTip": "POO\\Polimorfismo\\IFuntion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:50:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Electrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Herencia\\Electrodomestico.cs",
+              "RelativeDocumentMoniker": "POO\\Herencia\\Electrodomestico.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Herencia\\Electrodomestico.cs",
+              "RelativeToolTip": "POO\\Herencia\\Electrodomestico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:47:29.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Encapsulation\\Account.cs",
+              "RelativeDocumentMoniker": "POO\\Encapsulation\\Account.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Encapsulation\\Account.cs",
+              "RelativeToolTip": "POO\\Encapsulation\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:47:24.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Abstraction\\Person.cs",
+              "RelativeDocumentMoniker": "POO\\Abstraction\\Person.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\Abstraction\\Person.cs",
+              "RelativeToolTip": "POO\\Abstraction\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:47:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "POO",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\POO.csproj",
+              "RelativeDocumentMoniker": "POO\\POO.csproj",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo1\\POO\\POO\\POO.csproj",
+              "RelativeToolTip": "POO\\POO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T16:46:42.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
