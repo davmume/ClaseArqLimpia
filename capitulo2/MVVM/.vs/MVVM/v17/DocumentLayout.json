@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80388FCF-61AE-48C9-842C-EB98B1411023}|MVVM\\MVVM.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo2\\mvvm\\mvvm\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80388FCF-61AE-48C9-842C-EB98B1411023}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80388FCF-61AE-48C9-842C-EB98B1411023}|MVVM\\MVVM.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo2\\mvvm\\mvvm\\viewmodel\\clockviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80388FCF-61AE-48C9-842C-EB98B1411023}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodel\\clockviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80388FCF-61AE-48C9-842C-EB98B1411023}|MVVM\\MVVM.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo2\\mvvm\\mvvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80388FCF-61AE-48C9-842C-EB98B1411023}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\MVVM\\Program.cs",
+              "RelativeDocumentMoniker": "MVVM\\Program.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\MVVM\\Program.cs",
+              "RelativeToolTip": "MVVM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:47:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\MVVM\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MVVM\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\MVVM\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MVVM\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T21:43:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClockViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\MVVM\\ViewModel\\ClockViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\ClockViewModel.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\capitulo2\\MVVM\\MVVM\\ViewModel\\ClockViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\ClockViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:31:52.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
